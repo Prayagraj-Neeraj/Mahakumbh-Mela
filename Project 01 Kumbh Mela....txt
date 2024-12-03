@@ -1,0 +1,60 @@
+
+<! doctype html>
+<html> <head><title> Project 01 Kumbhnagari</title></head>
+<body bgcolor="white">
+<marquee bgcolor="black" scrollamount="25px" behavior="scroll"><font face="algerian" color="red" size="6">कुम्भनगरी प्रयागराज में आपका स्वागत है.....WELCOME TO THE PRAYAGRAJ KUMBHNAGARI</marquee> <br>
+<marquee bgcolor="purple" scrollamount ="30px" behavior="alternate"><font color="Yellow" siz="6">भव्य महाकुम्भ मेला 2025 </marquee><br>
+<h4><bold> <center><font size="6">ABOUT KUMBH MELA 2025</center></bold></h4><hr size="1px" color="black">
+<img class="sw-logo" src="https://cdn.s3waas.gov.in/s3cd00692c3bfe59267d5ecfac5310286c/uploads/2018/05/2018051749.png" width="100"><center><img src="https://cdn.s3waas.gov.in/s3cd00692c3bfe59267d5ecfac5310286c/uploads/2024/10/2024102172.png" width="100"></center>
+<pre><font size="3px">date :- 13/01/2025 - 26/02/2025             Location :- प्रयागराज, उत्तर प्रदेश </pre><hr size="1px" color="black">
+<div width="50px"><table width="5px" heigt="5px"><select><option>Home</option></select> <select bgcolor="black" ><option>ABOUT DISTRICT</option><option>WHO'S WHO</option> <option>ORGANISATION CHART</option><option>ADMINISTRATOR SETUP</option><option>MAN OF DISTRICT</option><option>HISTORY</option><OPTION>GEOGRAPHY</OPTION><option>DEMOGRAPHY</option><option>DISTRICT GAZETEER</option></select><select><option>MAHAKUMBH 2025</option><option>OFFICIAL WEBSITE OF MAHAKUMBH 2025</option><option>LAND AND SUVIDHA ALLOTMENT PORTAL</option></select><select><option>TOURISM</option><option>KNOW MORE ABOUT PRAYAGRAJ</option><option>NEWSLETTER</option><option>HOW  TO REACH</option><option>PLACES OF INTEREST</option><option>CULTURE & HERITAGE</option><option>ACCOMODATION</option><option>TOURISMS PLACES</option><option>UP TOURISMS</option></select><select><option>EOFFICE</option></select>
+<select><option>DIRECTORY</option><option>CONTACT DIRECTORY</option><option>POLICE CONTACT DIRECTORY</option><option>DISASTER MANAGEMENT</option><option>HELPLINE</option><option>STD & PIN CODES</option><option>PUBLIC UTILITIES</option></select><select><option>ELECTRIC PANEL</option><option>ELECTION COMMISSION OF INDIA (ECI)</option><option>CHIEF ELECTROL(CEO)PORTAL</option><option>DISTRICT ELECTION COMMISSION(DEO)</option><option>ASSEMBLY BY ELECTION 2024</option></select><select><option>DEPARTMENTS</option><option>ANIMAL HUSBANDRY</option><option>EDUCATION</option><option>HEALTH</option></select></table>
+
+</div>
+
+
+<img src="https://cdn.s3waas.gov.in/s3cd00692c3bfe59267d5ecfac5310286c/uploads/2018/02/2018022112.png" width="1250px">
+
+<p><pre>आस्था, विश्वास, सौहार्द एवं संस्कृतियों के मिलन का पर्व है “कुम्भ”। ज्ञान, चेतना और उसका परस्पर मंथन कुम्भ मेले का वो आयाम है जो आदि काल से ही हिन्दू धर्मावलम्बियों की जागृत चेतना को बिना किसी आमन्त्रण के 
+खींच कर ले आता है। कुम्भ पर्व किसी इतिहास निर्माण के दृष्टिकोण से नहीं शुरू हुआ था अपितु इसका इतिहास समय के प्रवाह से साथ स्वयं ही बनता चला गया। वैसे भी धार्मिक परम्पराएं हमेशा आस्था एवं विश्वास के आधार पर टिकती हैं
+न कि इतिहास पर। यह कहा जा सकता है कि कुम्भ जैसा विशालतम् मेला संस्कृतियों को एक सूत्र में बांधे रखने के लिए ही आयोजित होता है।</pre><pre>
+
+कुम्भ का शाब्दिक अर्थ कलश है। यहाँ ‘कलश’ का सम्बन्ध अमृत कलश से है। बात उस समय की है जब देवासुर संग्राम के बाद दोनों पक्ष समुद्र मंथन को राजी हुए थे। मथना था समुद्र तो मथनी और नेति भी उसी हिसाब की चाहिए थी।
+ऐसे में मंदराचल पर्वत मथनी बना और नागवासुकि उसकी नेति। मंथन से चौदह रत्नों की प्राप्ति हुई जिन्हें परस्पर बाँट लिया गया परन्तु जब धन्वन्तरि ने अमृत कलश देवताओं को दे दिया तो फिर युद्ध की स्थिति उत्पन्न हो गई। तब भगवान् 
+विष्णु ने स्वयं मोहिनी रूप धारण कर सबको अमृत-पान कराने की बात कही और अमृत कलश का दायित्व इंद्र-पुत्र जयंत को सौपा। अमृत-कलश को प्राप्त कर जब जयंत दानवों से अमृत की रक्षा हेतु भाग रहे थे तभी इसी क्रम में अमृत की
+बूंदे पृथ्वी पर चार स्थानों पर गिरी- हरिद्वार, नासिक, उज्जैन और प्रयागराज। चूँकि विष्णु की आज्ञा से सूर्य, चन्द्र, शनि एवं बृहस्पति भी अमृत कलश की रक्षा कर रहे थे और विभिन्न राशियों (सिंह, कुम्भ एवं मेष) में विचरण के कारण ये सभी
+कुम्भ पर्व के द्योतक बन गये। इस प्रकार ग्रहों एवं राशियों की सहभागिता के कारण कुम्भ पर्व ज्योतिष का पर्व भी बन गया। जयंत को अमृत कलश को स्वर्ग ले जाने में 12 दिन का समय लगा था और माना जाता है कि देवताओं का एक
+दिन पृथ्वी के एक वर्ष के बराबर होता है। यही कारण है कि कालान्तर में वर्णित स्थानों पर ही ग्रह-राशियों के विशेष संयोग पर 12 वर्षों में कुम्भ मेले का आयोजन होने लगा।</pre>
+</p>
+<p>ज्योतिष गणना के क्रम में कुम्भ का आयोजन चार प्रकार से माना गया हैः</p>
+<ul type="disc"><li>बृहस्पति के कुम्भ राशि में तथा सूर्य के मेष राशि में प्रविष्ट होने पर हरिद्वार में गंगा-तट पर कुम्भ पर्व का आयोजन होता है। </li><li> बृहस्पति के मेष राशि चक्र में प्रविष्ट होने तथा सूर्य और चन्द्र के मकर राशि में आने पर अमावस्या के दिन प्रयागराज में त्रिवेणी संगम तट पर कुम्भ पर्व का आयोजन होता है।</li><li>बृहस्पति एवं सूर्य के सिंह राशि में प्रविष्ट होने पर नासिक में गोदावरी तट पर कुम्भ पर्व का आयोजन होता है।</li><li>बृहस्पति के सिंह राशि में तथा सूर्य के मेष राशि में प्रविष्ट होने पर उज्जैन में शिप्रा तट पर कुम्भ पर्व का आयोजन होता है। , at the confluence of the Ganges, the Yamuna, and the mythical invisible Sarasvati</li></ul>
+<p><pre>धार्मिकता एवं ग्रह-दशा के साथ-साथ कुम्भ पर्व को तत्त्वमीमांसा की कसौटी पर भी कसा जा सकता है, जिससे कुम्भ की उपयोगिता सिद्ध होती है। कुम्भ पर्व का विश्लेषण करने पर ज्ञात होता है कि यह पर्व प्रकृति 
+एवं जीव तत्त्व में सामंजस्य स्थापित कर उनमें जीवनदायी शक्तियों को समाविष्ट करता है। प्रकृति ही जीवन एवं मृत्यु का आधार है, ऐसे में प्रकृति से सामंजस्य अति-आवश्यक हो जाता है। कहा भी गया है “यद् पिण्डे तद् ब्रह्माण्डे” 
+अर्थात् जो शरीर में है, वही ब्रह्माण्ड में है, इस लिए ब्रह्माण्ड की शक्तियों के साथ पिण्ड (शरीर) कैसे सामंजस्य स्थापित करे, उसे जीवनदायी शक्तियाँ कैसे मिले इसी रहस्य का पर्व है कुम्भ। विभिन्न मतों-अभिमतों-मतान्तरों के
+ व्यावहारिक मंथन का पर्व है-‘कुम्भ’, और इस मंथन से निकलने वाला ज्ञान-अमृत ही कुम्भ-पर्व का प्रसाद है।
+
+महाकुम्भ मेला 2025 का आयोजन प्रयागराज में किया जा रहा है, जो 13 जनवरी, 2025 से 26 फरवरी, 2025 तक चलेगा। नीचे दी गई तालिका में महाकुम्भ मेला 2025 की प्रमुख तिथियों का उल्लेख है:</pre></p>
+<table border="1" width="1250"><th>क्र०सं०</th><th>पर्व का नाम</th><th>तिथि/दिवस</th><tr><td><Center>1.</center></td><td><center>  पौष पूर्णिमा</c></td><td><center> 13-01-2025/सोमवार</center></td></tr>
+<tr><td><center>2.</center></td><td><center> मकर संक्रांति</center></td><td> <center>14-01-2025/मंगलवार</center></td></tr><tr><td><center>3.</center></td><td><center> मौनी अमावस्या (सोमवती)</center></td><td> <center>29-01-2025/बुधवार</center></td></tr><tr><td><center>4.</center></td> <td><center> बसंत पंचमी</center></td><td> <center>03-02-2025/सोमवार</center></td></tr><tr><td><center>5.</center></td><td><center>  माघी पूर्णिमा</center></td><td><center> 12-02-2025/बुधवार</center></td></tr>
+<tr><td><center>6.</center></td> <td><center>  महाशिवरात्री</center></td><td><center> 26-02-2025/बुधवार</center></td></tr></center>
+</table>
+<p><pre>Like, Follow, and Subscribe to the official communication pages for #MahaKumbh2025. Witness the grandeur of this biggest holy bathing fair in the world.</p></pre>
+<table border="1" width="1250px" height="40px"><tr><th bgcolor="black" align="left"><font color="white" size="4">Links</th></tr></table>
+<table border="1" width="1250px" height="40px"><tr><th>Sno.</th><th>Social Media</th><th>Links</th></tr>
+<tr><td><center>1.</center></td><td><center>Website</center></td><td><center><a href="https://kumbh.gov.in/">https://kumbh.gov.in/</center></td></tr><tr><td><center>2.</center></td><td><center>Mobile App</center></td><td><center><a href="https://play.google.com/store/apps/details?id=in.gov.kumbh.kumbh_app&pli=1">Android, <a href="https://apps.apple.com/in/app/maha-kumbh-mela-2025/id6566176668">iOS</center></td></tr>
+<tr><td><center>3.</center></td><td><center>X</center></td><td><center><a  href="https://x.com/MahaKumbh_2025">View</center></td></tr><tr><td><center>4.</center></td><td><center>Facebook</center></td><td><center><a href="https://www.facebook.com/upmahakumbh">View</center></td></tr>
+</table>
+<p><pre><big><b><h2>Contact Details:</h2></b></big>
+     <font size="4"><b>Prayagraj Mela Authority</b>
+     Address: Parade Ground, Daraganj, Prayagraj, Uttar Pradesh –211006
+
+     Telephone: 0532-2504011, 0532-2500775
+
+     Email ID: info[dot]mahakumbh25[at]gmail[dot]com</pre></p>
+
+
+
+
+
+</body>
+</html>
